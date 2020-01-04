@@ -1,0 +1,18 @@
+<ion-header no-border>
+ 
+ 	<ion-toolbar class="textocentro" color="o1">
+		<ion-title icon-start><ion-icon name="school"></ion-icon>SmartClass</ion-title>
+
+	</ion-toolbar>
+ 
+</ion-header>
+ 
+
+<ion-content>
+ 
+  <super-tabs selectedTabIndex="1" tabsPlacement="bottom" toolbarBackground="o1" toolbarColor="laranja" indicatorColor="laranja">
+  <super-tab *ngFor="let page of pages" [root]="page.pageName" [icon]="page.icon" [id]="page.id" [title]="page.title" class='icone_size'></super-tab>
+</super-tabs>
+ 
+</ion-content>
+	

@@ -1,0 +1,16 @@
+Testes 06/11/2018
+
+- RTC; Código Ok || TESTE OK
+- Sensor de Presença; Código Ok || TESTE OK
+- Emissor Ir_3; Código Ok || 
+- Bluetooth; Código Ok || TESTE OK
+- Sensor Tensão_Lamp1; Código Ok || TESTE OK
+- Sensor Tensão_Lamp2; Código Ok || TESTE OK
+- Sensor Tensão_Lamp3; Código Ok || TESTE OK
+- Controlador de Tomadas; Código Ok || TESTE OK
+- Interruptor Paralelo Lamp_1; Código Ok ||
+- Interruptor Paralelo Lamp_2; Código Ok ||
+- Interruptor Paralelo Lamp_3; Código Ok || TESTE OK
+- Fechadura; Código Ok || Teste Ok
+
+

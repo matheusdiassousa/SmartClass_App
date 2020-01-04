@@ -1,0 +1,25 @@
+<ion-navbar>	
+		<ion-title text-align="center">Conectar-se à um Dispositivo</ion-title>
+	</ion-navbar>
+
+
+
+
+
+<ion-list>
+  <button ion-button block (click)="startScanning()">Procurar</button>
+  <ion-list-header class="titulo">
+    Dispositivos disponíveis
+  </ion-list-header>
+  <ion-item class="titulo" *ngFor='let device of unpairedDevices'>
+    <span (click)="selectDevice(device.address)">
+      {{device.name}}
+    </span>
+  </ion-item>
+  <div class = "ion-spinner">
+  	<ion-spinner  name="crescent" *ngIf="gettingDevices"></ion-spinner>
+  </div>
+
+  <button ion-button block (click)="disconnect()">Desconectar</button>
+  
+</ion-list>

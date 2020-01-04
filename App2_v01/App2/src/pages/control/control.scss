@@ -1,0 +1,212 @@
+page-control {
+	.texto-peq{
+		font-size: small;
+	}
+
+	.content{
+		background:#2f2f3a;
+		
+	}
+
+	
+
+	.botao{
+		width: 100%;
+		height: 100%;
+		background: #FF8C00;
+		color: white;
+		font-size: bold;
+		text-transform: uppercase;
+		box-shadow: #000 0.1px 0.1px 0.1px;
+
+	}
+
+	.botao:active{
+		background: #d1640c;
+		color: #fcec07;
+		
+	}
+
+	
+
+
+	.div-botao{
+		width: 25%;
+		height: 100%;
+		float: left;
+		margin-top: auto;
+		margin-right: 10px;
+		margin-bottom: 5px;
+		margin-left: 5%;
+
+	}
+
+  	.container{
+  		width: 100%;
+  		height: 100px;
+  		margin-bottom: 10px;
+  	}
+
+  	.icon-size-ilu{
+  		font-size: 40px;
+  		text-align: center;
+  		margin-left: 10px;
+  	}
+
+  	.titulo{
+  		width: 100%;
+  		height: 31px;
+  		margin-bottom: 3px;
+  		font-size: 15px;
+  		text-align: left;
+  		line-height: 31px;
+
+  		color: #fff;
+  		//text-shadow: 1px -1px -1px -1px;
+  		font-family: "trebuchet ms";
+  		background: none;
+  		border-top: 0.5px solid #fff;
+  		border-bottom: 0.5px solid #fff;
+
+  	}
+
+  	.titulo-paragrafo{
+  		border-top: 1px;
+  		font-size: 22px;
+  		text-align: left;
+  		color: #fff;
+  		//text-shadow: 1px -1px -1px -1px;
+  		font-family: "trebuchet ms";
+  		
+  	}
+
+
+
+
+    .container_1{
+      margin-top: 2px;
+      width: 100%;
+      height: 50px;
+      margin-bottom: 10px;
+    }
+
+    .div-botao_ar_big{
+    width: 35%;
+    height: 100%;
+    float: left;
+    margin-top: auto;
+    margin-right: 10px;
+    margin-bottom: 5px;
+    margin-left: 9%;
+    }
+
+    .botao_ar{
+    width: 100%;
+    height: 100%;
+    color: white;
+    background: #67b0db;
+    box-shadow: #000 0.1px 0.1px 0.1px;
+    }
+    .botao_ar:active{
+    background: #377384;
+    color: #fcec07;
+
+    } 
+
+    .icon_size{
+      font-size: 20px;
+      text-align: center;
+      line-height: 30px;
+      margin-left: 8px;
+    }
+
+    .text-ar{
+      font-size: bold;
+      text-transform: uppercase;
+      margin-top: 0px;
+    }
+
+    .container_2{
+      width: 100%;
+      height: 25px;
+      margin-bottom: 40px;
+    }
+
+    .div-botao_ar_sm{
+    width: 18%;
+    height: 100%;
+    float: left;
+    margin-top: 10px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    margin-left: 5%;
+
+    }
+    .icon_size_sm{
+      font-size: 20px;
+      text-align: center;
+      line-height: 20px;
+      margin-left: 3px;
+    }
+
+      .titulo2{
+      
+      width: 100%;
+      height: 31px;
+
+      margin-bottom: 3px;
+      font-size: 15px;
+      text-align: left;
+      line-height: 31px;
+
+      color: #fff;
+      //text-shadow: 1px -1px -1px -1px;
+      font-family: "trebuchet ms";
+      background: none;
+      border-top: 0.5px solid #fff;
+      border-bottom: 0.5px solid #fff;
+
+    }
+
+    .text-ds{
+      font-size: bold;
+      text-transform: uppercase;
+      margin-top: 0px;
+    }
+    .div-botao_ds{
+    width: 100%;
+    height: 100%;
+    float: left;
+    margin-top: 2px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    
+    }
+    .icon_size_ds{
+      font-size: 25px;
+      text-align: center;
+      line-height: 20px;
+      margin-left: 3px;
+    }
+
+    .container_3{
+      width: 100%;
+      height: 50px;
+      margin-bottom: 40px;
+    }      
+
+    .botao_ds{
+    width: 100%;
+    height: 100%;
+    color: white;
+    background: #4d5136;
+    box-shadow: #000 0.1px 0.1px 0.1px;
+    }
+    .botao_ds:active{
+    background: #aaaf8e;
+    color: #077382;
+
+    }          
+  
+
+}

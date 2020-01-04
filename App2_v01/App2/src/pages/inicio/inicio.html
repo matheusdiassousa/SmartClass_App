@@ -1,0 +1,21 @@
+
+<ion-content class="fundo-content">
+	<ion-card>
+
+	  
+	  <ion-card-content class="texto">
+	    <p class="texto">Clique no botão para destravar a fecho eletromagnético da porta. Caso a porta não seja desbloqueada, a abertura deverá ser efetuada através de sua respectiva Chave!</p>
+	  </ion-card-content>
+
+	</ion-card>
+	<button ion-button icon-start (click)="destravarFechadura()" class="unlock">
+		  <ion-icon name="unlock"></ion-icon>
+		  Destravar Porta
+	</button>
+	
+	<ion-fab right bottom >
+		<button ion-fab large (click)="pushPage()">
+			<ion-icon name="bluetooth"></ion-icon>  
+		</button>
+	</ion-fab>
+</ion-content>

@@ -1,0 +1,49 @@
+Função             |      Comando
+
+AbrirFechadura	   |        f
+
+Ligar Lamp1	   |        l1
+Desligar Lamp1     |	    d1
+
+Ligar Lamp2	   |        l2
+Desligar Lamp2     |	    d2
+
+Ligar Lamp3	   |        l3
+Desligar Lamp3     |	    d3
+
+Ligar DataShow     |        ds1
+Desligar DataShow  |        ds0
+
+TomadaOn Central1  |        c1t1
+TomadaOff Central1 |        c1t0
+Ligar Central1     |        c11
+Desligar Central1  |        c10
+Temp16 Central1    |        c116
+Temp17 Central1    |        c117
+Temp18 Central1    |        c118
+Temp19 Central1    |        c119
+Temp20 Central1    |        c120
+Temp21 Central1    |        c121
+Temp22 Central1    |        c122
+Temp23 Central1    |        c123
+Temp24 Central1    |        c124
+Temp25 Central1    |        c125
+
+TomadaOn Central2  |        c2t1
+TomadaOff Central2 |        c2t0
+Ligar Central2     |        c21
+Desligar Central2  |        c20
+Temp16 Central2    |        c216
+Temp17 Central2    |        c217
+Temp18 Central2    |        c218
+Temp19 Central2    |        c219
+Temp20 Central2    |        c220
+Temp21 Central2    |        c221
+Temp22 Central2    |        c222
+Temp23 Central2    |        c223
+Temp24 Central2    |        c224
+Temp25 Central2    |        c225
+
+
+
+	
